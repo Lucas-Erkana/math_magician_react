@@ -122,7 +122,7 @@ Clone this repository to your desired folder:
 
 ```sh
   git clone https://github.com/Lucash2022/math_magician_react.git
-  cd to-do-list
+  cd math_magiacian_react
 ```
 
 ### Install
