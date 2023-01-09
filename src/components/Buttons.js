@@ -1,6 +1,6 @@
 import React from 'react';
 
-class Btns extends React.PureComponent {
+class Buttons extends React.PureComponent {
   render() {
     return (
       <div className="operations">
@@ -39,4 +39,4 @@ class Btns extends React.PureComponent {
     );
   }
 }
-export default Btns;
+export default Buttons;

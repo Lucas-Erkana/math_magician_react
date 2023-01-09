@@ -1,11 +1,11 @@
 import React from 'react';
-import Btns from './Button';
+import Buttons from './Buttons';
 
 class Calculator extends React.PureComponent {
   render() {
     return (
       <div className="cal-operations">
-        <Btns />
+        <Buttons />
       </div>
     );
   }
