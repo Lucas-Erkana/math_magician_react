@@ -20,7 +20,7 @@
 # 📗 Table of Contents
 
 - [� Table of Contents](#-table-of-contents)
-- [📖 TV Hub app ](#-tv-hub-app-)
+- [📖 Math Magic ](#-math_magic_react-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
