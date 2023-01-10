@@ -21,6 +21,7 @@ body {
   align-items: center;
   justify-content: flex-end;
   height: 50px;
+  font-size: 1.3rem;
   background-color: grey;
   padding: 8px;
   color: white;
