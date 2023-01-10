@@ -6,7 +6,6 @@ class App extends React.PureComponent {
   render() {
     return (
       <div className="Application">
-        <div className="answer">0</div>
         <Calculator />
       </div>
     );
