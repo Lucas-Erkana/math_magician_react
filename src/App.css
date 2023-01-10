@@ -58,7 +58,7 @@ button:active {
 .maths:hover {
   background-color: greenyellow;
   font-size: large;
-  font-weight:900;
+  font-weight: 900;
 }
 
 .maths:active {
