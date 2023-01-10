@@ -13,8 +13,28 @@
 
 > This is the first project of the Math Magicians application. I set up the environment and tools needed to develop a React application.
 
-</div>
+Project 1: Setup.
+In this the I will set up the environment and tools needed to develop a React application. 
 
+Project 2: Components.
+In this project, I will continue with the development of the Math Magicians app. I will develop a React component that will hold the core functionality: a calculator
+
+Project 3: Events.
+In this project, I will add the logic needed to make the Calculator component I developed in the previous project actually work.
+
+Project 4: Refactor with hooks.
+In this project I will refactor the Calculator component you developed in the past projects. Instead of using class based components, I will use now hooks.
+
+Project 5: Full website.
+
+Project 6: Tests (pair programming).
+
+
+</div>
+ <img src="/images/Math-Magician.gif" alt="logo" width="250"  height="250" />
+<div>
+
+<div>
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -54,7 +74,7 @@
   - HTML
 - CSS
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [React]((https://github.com/microverseinc/curriculum-javascript/blob/main/todo-list/lessons/webpack_v1_1.md))
+- [React]((https://github.com/microverseinc/curriculum-react-redux/blob/main/math-magicians/lessons/what_is_react.md))
 
 <details>
   <summary>Languages</summary>
