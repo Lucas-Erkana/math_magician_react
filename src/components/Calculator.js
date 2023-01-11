@@ -24,22 +24,22 @@ const Calculator = () => {
         <Btn click={clickReceived} text="AC" />
         <Btn click={clickReceived} text="+/-" />
         <Btn click={clickReceived} text="%" />
-        <Btn click={clickReceived} class="maths" text="&#247;" />
+        <Btn click={clickReceived} className="maths" text="&#247;" />
         <Btn click={clickReceived} text="7" />
         <Btn click={clickReceived} text="8" />
         <Btn click={clickReceived} text="9" />
-        <Btn click={clickReceived} class="maths" text="x" />
+        <Btn click={clickReceived} className="maths" text="x" />
         <Btn click={clickReceived} text="4" />
         <Btn click={clickReceived} text="5" />
         <Btn click={clickReceived} text="6" />
-        <Btn click={clickReceived} class="maths" text="-" />
+        <Btn click={clickReceived} className="maths" text="-" />
         <Btn click={clickReceived} text="1" />
         <Btn click={clickReceived} text="2" />
         <Btn click={clickReceived} text="3" />
-        <Btn click={clickReceived} class="maths" text="+" />
-        <Btn click={clickReceived} class="zero" text="0" />
+        <Btn click={clickReceived} className="maths" text="+" />
+        <Btn click={clickReceived} className="zero" text="0" />
         <Btn click={clickReceived} text="." />
-        <Btn click={clickReceived} class="maths" text="=" />
+        <Btn click={clickReceived} className="maths" text="=" />
       </div>
     </div>
   );
