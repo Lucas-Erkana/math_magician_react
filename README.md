@@ -68,7 +68,7 @@
 <details>
   <summary>Bundler</summary>
   <ul>
-    <li>Webpack</li>
+    <li>React</li>
   </ul>
 </details>
 <details>
@@ -83,6 +83,8 @@
 ### Key Features <a name="key-features"></a>
 
 - **Use calculator**
+- **Use calculator to make calculations**
+
 
 
 
@@ -90,8 +92,8 @@
 
 #### 🔭 Future Features <a name="future-features"></a>
 
-- [ ] ****
-- [ ] ****
+- [ ] **calculate sin,cos and tan**
+- [ ] **calculate square root and to the power**
 
 <!-- LIVE DEMO -->
 
