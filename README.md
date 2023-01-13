@@ -90,7 +90,7 @@
 
 #### 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **make math logic to work**
+- [ ] **View Calulator UI**
 - [ ] ****
 
 <!-- LIVE DEMO -->
