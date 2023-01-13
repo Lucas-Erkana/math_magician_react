@@ -1,36 +1,17 @@
 <a name="readme-top"></a>
+<div align="center">
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
-<div align="left">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <!-- <img src="murple_logo.png" alt="logo" width="140"  height="auto" /> -->
+  <img src="/images/murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h1><b> README </b></h1>
+  <h3><b>Microverse</b></h3>
+
+</div>
+<div align="left">
+  <h1>Math magician</h1>
+
+
+> This is the first project of the Math Magicians application. I set up the environment and tools needed to develop a React application.
 
 </div>
 
@@ -38,196 +19,169 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    <!-- - [Key Features](#key-features) -->
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-<!-- - [🔭 Future Features](#future-features) -->
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-<!-- - [❓ FAQ (OPTIONAL)](#faq) -->
-- [📝 License](#license)
+- [� Table of Contents](#-table-of-contents)
+- [📖 Math Magician ](#-math_magic_react-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+      - [🔭 Future Features ](#-future-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [🚀 Video Presentation ](#-Video-Project-Presentation-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Testing](#testing)
+    - [Deployment](#deployment)
+  - [👥 Author](#-author)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [❓ FAQ ](#-faq-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Math Magician] <a name="about-project"></a>
+# 📖 Math magician <a name="about-project"></a>
 
-> 
+>This is the first project of the Math Magicians application. I set up the environment and tools needed to develop a React application.
 
-**[math magician]** is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple Math calculations and read a random Math related quote.
+**Math magician app**
 
-## 🛠 Built With <a name="built-with">
-- HTML
-- CSS
-- JavaScript
-- React
-</a>
+## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
+  - HTML
+- CSS
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [React]((https://github.com/microverseinc/curriculum-javascript/blob/main/todo-list/lessons/webpack_v1_1.md))
 
 <details>
-  <summary>Client</summary>
+  <summary>Languages</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Javascript</li>
+    <li>React</li>
   </ul>
 </details>
-
+<details>
+  <summary>Bundler</summary>
+  <ul>
+    <li>Webpack</li>
+  </ul>
+</details>
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li>Github</li>
   </ul>
 </details>
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
+<!-- Features -->
 
-Features -->
 ### Key Features <a name="key-features"></a>
 
->
+- **Use calculator**
 
-- **[Add faeture is a feature that allows users to add their scores ]**
-- **[Refresh score is a feature that allows users see thier ranking]**
-- **[The  app uses API service which allows users to post ad fetch game scores]**
-<!-- 
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **make math logic to work**
+- [ ] ****
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+- <a href="#" target="_blank">Live Demo Link</a>
 
-- [Live Demo Link]()
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+## 🚀 Video Project Presentation <a name="live-demo"></a>
+
+- <a href="#" target="_blank">-Video Project Presentation Link</a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
-- Visual Studio Code or amy other equivalent code editor
-- Knowledge in HTML, CSS, Javascript and Github
-- And internet connection.
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder:
-git clone 'repo url'
-<!--
-Example commands:
 
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone https://github.com/Lucash2022/math_magician_react.git
+  cd math_magiacian_react
 ```
---->
 
 ### Install
 
 Install this project with:
-- Git Bash
-- GitHub Desktop
-<!--
-Example command:
 
 ```sh
-  cd my-project
-  gem install
+  npm install
 ```
---->
 
 ### Usage
 
-To run the project, execute the following command:
-- npm start
-<!--
-Example command:
+To run the project in a development server, execute the following command:
 
 ```sh
-  rails server
+  npm start
 ```
---->
 
-### Run tests
+### Testing
 
-To run tests, run the following command:
-
-<!--
-Example command:
+To run the tests in a development server, execute the following command:
 
 ```sh
-  bin/rails test test/models/article_test.rb
+  npm test
 ```
---->
+
+To to build for the production, execute the following command:
+
+```sh
+  npm run build
+```
 
 ### Deployment
 
-You can deploy this project using:
-- GitHub Pages
-<!--
-Example:
-
-```sh
-
-```
- -->
+You can deploy this project using [Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-<!-- ## 👥 Authors <a name="authors"></a>
+## 👥 Author
 
-> Mention all of the collaborators of this project. -->
+<a name="authors"></a>
 
-👤 **Author1**
+<h4>Lucas Erkana</h4>
 
-- GitHub: [@lugard1](https://github.com/lugard1)
-- Twitter: [@Dsn3kings](https://twitter.com/Dsn3kings)
-- LinkedIn: [Lugard Agu](https://linkedin.com/in/linkedinhandle)
+<img src="/images/github.svg" alt="logo" width="18"  height="18" />[githubhandle](https://github.com/Lucash2022)
+<br>
+<img src="/images/twitter.svg" alt="logo" width="18"  height="18" /> [twitterhandle](https://twitter.com/@Lucas_David_22)
+<br>
+<img src="/images/linkedin.svg" alt="logo" width="18"  height="18" />[linkedIn](https://www.linkedin.com/in/lucas-erkana-b30a0b3b/)
+  <br>
+<img src="/images/facebook.svg" alt="logo" width="18"  height="18" />[facebook](https://www.facebook.com/lucash.toni)
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-FUTURE FEATURES
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> 
-
-- [ ] **[I would work on creating a calculato using React]**
+<!-- FUTURE FEATURES -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -237,7 +191,7 @@ FUTURE FEATURES
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Lucash2022/math_magician_react/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -245,8 +199,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> If you like this project give us a star ⭐️
-
+If you like this project give me a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -254,34 +207,32 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-<!-- > Give credit to everyone who inspired your codebase. -->
 
-I would like to thank everyone that made this work a success.
+Thanks to our friend [Alex](https://github.com/Osoro254Alex) for a good insight of the overview of the project.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
-<!-- 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+## ❓ FAQ <a name="faq"></a>
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **What is this project?**
 
-  - [Answer_1]
+  - It's a project of micoverse curriculum.
 
-- **[Question_2]**
+- **Is there any SQL database for this site**
 
-  - [Answer_2]
+  - No, there isn't. However, I used javascirpt objects stored in a file as a small database.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/lugard1/math-magicians/blob/setup/MIT.md) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](https://github.com/Lucash2022/math_magician_react/blob/linters/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
