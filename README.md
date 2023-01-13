@@ -82,7 +82,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Use calculator**
+- **calulator UI**
 
 
 
