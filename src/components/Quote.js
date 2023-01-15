@@ -5,7 +5,7 @@ const Quote = () => (
   <div className={styles.quote}>
     <ul>
       <li>
-      Mathematics is the language in which God has written the universe." -
+        Mathematics is the language in which God has written the universe." -
         <span>
           <big>
             <b>Galileo Galilei</b>
@@ -13,8 +13,8 @@ const Quote = () => (
         </span>
       </li>
       <li>
-      Mathematics is not about numbers, equations, computations, or 
-      algorithms: it is about understanding." - 
+        Mathematics is not about numbers, equations, computations, or
+        algorithms: it is about understanding." -
         <span>
           <big>
             <b>William Paul Thurston</b>
