@@ -1,38 +1,37 @@
 .quote {
+  position: absolute;
+  top: 40%;
+  bottom: 40%;
+  left: 10%;
+  right: 10%;
+}
+
+.quote ul {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.quote ul li {
+  list-style: none;
+}
+
+@media screen and (max-width: 600px) {
+  .quote {
     position: absolute;
     top: 40%;
     bottom: 40%;
     left: 10%;
     right: 10%;
   }
-  
+
   .quote ul {
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
   }
-  
+
   .quote ul li {
     list-style: none;
   }
-  
-  @media screen and (max-width: 600px) {
-    .quote {
-      position: absolute;
-      top: 40%;
-      bottom: 40%;
-      left: 10%;
-      right: 10%;
-    }
-  
-    .quote ul {
-      display: flex;
-      flex-direction: column;
-      gap: 0.5rem;
-    }
-  
-    .quote ul li {
-      list-style: none;
-    }
-  }
-  
+}

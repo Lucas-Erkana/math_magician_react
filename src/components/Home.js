@@ -23,7 +23,7 @@ const Home = () => (
       and it has become a necessary accessory for many people. With the advancement
       of technology, many calculators now have additional features such as memory and
       percentage functions, making them even more versatile and useful.
-      It's not just a tool but a companion which can make your day to day
+      It&apos;s not just a tool but a companion which can make your day to day
       calculation easier and accurate.
     </p>
   </div>
