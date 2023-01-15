@@ -31,7 +31,7 @@ Project 6: Tests (pair programming).
 
 
 </div>
- <img src="/images/Math-Magician.gif" alt="logo" width="550"  height="350" />
+ <img src="/images/Math-Magician2.gif" alt="logo" width="650"  height="450" />
 <div>
 
 <div>
