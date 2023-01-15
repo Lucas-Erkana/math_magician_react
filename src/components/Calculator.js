@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 import Btn from './eachBtn';
-import styles from './Calculator.modules.css';
+import styles from './Calculator.module.css';
 
 const Calculator = () => {
   const info = { total: 0, next: null, operation: null };
