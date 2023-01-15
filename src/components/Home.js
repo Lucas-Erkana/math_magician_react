@@ -19,6 +19,8 @@ const Home = () => (
       It can help with budgeting and managing finances, assist with
       shopping and comparing prices, and can even be used for cooking
       and recipe conversions.
+    </p>
+    <p>
       It is a device that can be found in nearly every household and office,
       and it has become a necessary accessory for many people. With the advancement
       of technology, many calculators now have additional features such as memory and
