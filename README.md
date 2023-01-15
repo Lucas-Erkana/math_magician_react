@@ -32,6 +32,7 @@ Project 6: Tests (pair programming).
 
 </div>
  <img src="/images/Math-Magician.gif" alt="logo" width="550"  height="350" />
+ <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/0d9fbf8cdd8240f1900aff37c8ee9fa6" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 <div>
 
 <div>

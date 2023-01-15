@@ -51,5 +51,13 @@
     justify-content: flex-start;
     padding: 0;
     gap: 0.4rem;
+    cursor: pointer;
   }
+}
+
+li:hover {
+  background-color:aqua;
+  color: black;
+  border: 2px solid aquamarine;
+  font-size: 20px;
 }
