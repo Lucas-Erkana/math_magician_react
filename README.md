@@ -32,7 +32,6 @@ Project 6: Tests (pair programming).
 
 </div>
  <img src="/images/Math-Magician.gif" alt="logo" width="550"  height="350" />
- <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/0d9fbf8cdd8240f1900aff37c8ee9fa6" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 <div>
 
 <div>
@@ -104,7 +103,10 @@ Project 6: Tests (pair programming).
 ### Key Features <a name="key-features"></a>
 
 - **Use calculator**
-- **Use calculator to make calculations**
+- **Use calculator to make calculations(Addition, Subtraction, Multiplication, Division and Percentage)**
+- **Access Home page**
+- **Access Calculator page**
+- **Access Quote page**
 
 
 
@@ -113,8 +115,8 @@ Project 6: Tests (pair programming).
 
 #### 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **calculate sin,cos and tan**
-- [ ] **calculate square root and to the power**
+- [ ] **Calculate sin,cos and tan**
+- [ ] **Calculate square root and to the power**
 
 <!-- LIVE DEMO -->
 
