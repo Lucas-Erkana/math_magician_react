@@ -11,7 +11,7 @@
   <h1>Math magician</h1>
 
 
-> This is the first project of the Math Magicians application. I set up the environment and tools needed to develop a React application.
+>In tis the first react project I created a full website for the Math magicians app, consisting of several pages and using the components I have already created. By adding a Home page, Calculator page and Quotes page.
 
 Project 1: Setup.
 In this the I will set up the environment and tools needed to develop a React application. 
@@ -128,7 +128,7 @@ Project 6: Tests (pair programming).
 
 ## 🚀 Video Project Presentation <a name="live-demo"></a>
 
-- <a href="#" target="_blank">Video Project Presentation Link</a>
+- <a href="https://www.loom.com/share/5f0a6c88d3d04b859d471a04860f2104" target="_blank">Video Project Presentation Link</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
