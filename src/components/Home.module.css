@@ -1,0 +1,40 @@
+.home {
+  position: absolute;
+  top: 30%;
+  bottom: 20%;
+  right: 2%;
+  left: 2%;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.head {
+  color: #1d1616e0;
+}
+
+.home p {
+  line-height: 1.5rem;
+}
+
+@media screen and (max-width: 600px) {
+  .home {
+    position: absolute;
+    top: 30%;
+    bottom: 10%;
+    right: 2%;
+    left: 2%;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .head {
+    color: #1d1616e0;
+    font-size: 1.3rem;
+  }
+
+  .home p {
+    line-height: 1.8rem;
+  }
+}

@@ -1,37 +1,30 @@
 <a name="readme-top"></a>
-<div align="center">
 
-  <img src="/images/murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse</b></h3>
-
-</div>
 <div align="left">
-  <h1>Math magician</h1>
+  <h1>Math magicians</h1>
 
 
-> This is the first project of the Math Magicians application. I set up the environment and tools needed to develop a React application.
+>In this react project I created a full website for the Math magicians app, consisting of several pages and using the components I have already created. By adding a Home page, Calculator page and Quotes page.
 
 Project 1: Setup.
-In this the I will set up the environment and tools needed to develop a React application. 
+In this project I will set up the environment and tools needed to develop a React application. 
 
 Project 2: Components.
-In this project, I will continue with the development of the Math Magicians app. I will develop a React component that will hold the core functionality: a calculator
+In this project, I will continue with the development of the Math Magicians app. I will develop a React component that will hold the core functionality of a calculator
 
 Project 3: Events.
 In this project, I will add the logic needed to make the Calculator component I developed in the previous project actually work.
 
 Project 4: Refactor with hooks.
-In this project I will refactor the Calculator component you developed in the past projects. Instead of using class based components, I will use now hooks.
+In this project I will refactor the Calculator component I developed in the past projects. Instead of using class based components, I will use hooks.
 
 Project 5: Full website.
+In this project I will create a full website for the Math magicians app, consisting of several pages and using the components I have already created. By adding a Home page, Calculator page and Quotes page.
 
-Project 6: Tests (pair programming).
 
 
 </div>
- <img src="/images/Math-Magician.gif" alt="logo" width="550"  height="350" />
+ <img src="/images/Math-Magician2.gif" alt="Math Magician Demo" width="650"  height="450" />
 <div>
 
 <div>
@@ -40,7 +33,7 @@ Project 6: Tests (pair programming).
 # 📗 Table of Contents
 
 - [� Table of Contents](#-table-of-contents)
-- [📖 Math Magician ](#-math_magic_react-)
+- [📖 Math Magicians ](#-math_magic_react-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -103,7 +96,10 @@ Project 6: Tests (pair programming).
 ### Key Features <a name="key-features"></a>
 
 - **Use calculator**
-- **Use calculator to make calculations**
+- **Use calculator to make calculations(Addition, Subtraction, Multiplication, Division and Percentage)**
+- **Access Home page**
+- **Access Calculator page**
+- **Access Quote page**
 
 
 
@@ -112,20 +108,20 @@ Project 6: Tests (pair programming).
 
 #### 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **calculate sin,cos and tan**
-- [ ] **calculate square root and to the power**
+- [ ] **Calculate sin,cos and tan**
+- [ ] **Calculate square root and to the power**
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- <a href="https://lucash2022.github.io/math_magician_react/" target="_blank">Live Demo Link</a>
+- <a href="https://lucash2022.github.io/math_magician_react" target="_blank">Live Demo Link</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Video Project Presentation <a name="live-demo"></a>
 
-- <a href="#" target="_blank">Video Project Presentation Link</a>
+- <a href="https://www.loom.com/share/5f0a6c88d3d04b859d471a04860f2104" target="_blank">Video Project Presentation Link</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
