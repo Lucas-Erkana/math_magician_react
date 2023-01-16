@@ -10,7 +10,7 @@ import styles from './App.module.css';
 class App extends React.PureComponent {
   render() {
     return (
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <div className={styles.Application}>
           <nav>
             <h1 className={styles.header}>Math Magicians</h1>
@@ -29,10 +29,11 @@ class App extends React.PureComponent {
             </ul>
           </nav>
           <Routes>
+            <Route path="Calculator" element={<Calculator />} />
+            <Route path="Quote" element={<Quote />} />
             <Route path="/" element={<Home />} />
-            <Route path="/Calculator" element={<Calculator />} />
-            <Route path="/Quote" element={<Quote />} />
           </Routes>
+
         </div>
       </Router>
     );
