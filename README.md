@@ -122,7 +122,7 @@ Project 6: Tests (pair programming).
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- <a href="https://lucash2022.github.io/magic_magicians_deploy/" target="_blank">Live Demo Link</a>
+- <a href="https://lucash2022.github.io/math_magician_react" target="_blank">Live Demo Link</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
