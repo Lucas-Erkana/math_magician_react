@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="left">
-  <h1>Math magician</h1>
+  <h1>Math magicians</h1>
 
 
 >In this react project I created a full website for the Math magicians app, consisting of several pages and using the components I have already created. By adding a Home page, Calculator page and Quotes page.
@@ -33,7 +33,7 @@ In this project I will create a full website for the Math magicians app, consist
 # 📗 Table of Contents
 
 - [� Table of Contents](#-table-of-contents)
-- [📖 Math Magician ](#-math_magic_react-)
+- [📖 Math Magicians ](#-math_magic_react-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
