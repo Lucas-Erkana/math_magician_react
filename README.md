@@ -1,37 +1,30 @@
 <a name="readme-top"></a>
-<div align="center">
 
-  <img src="/images/murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse</b></h3>
-
-</div>
 <div align="left">
   <h1>Math magician</h1>
 
 
->In tis the first react project I created a full website for the Math magicians app, consisting of several pages and using the components I have already created. By adding a Home page, Calculator page and Quotes page.
+>In this react project I created a full website for the Math magicians app, consisting of several pages and using the components I have already created. By adding a Home page, Calculator page and Quotes page.
 
 Project 1: Setup.
-In this the I will set up the environment and tools needed to develop a React application. 
+In this project I will set up the environment and tools needed to develop a React application. 
 
 Project 2: Components.
-In this project, I will continue with the development of the Math Magicians app. I will develop a React component that will hold the core functionality: a calculator
+In this project, I will continue with the development of the Math Magicians app. I will develop a React component that will hold the core functionality of a calculator
 
 Project 3: Events.
 In this project, I will add the logic needed to make the Calculator component I developed in the previous project actually work.
 
 Project 4: Refactor with hooks.
-In this project I will refactor the Calculator component you developed in the past projects. Instead of using class based components, I will use now hooks.
+In this project I will refactor the Calculator component I developed in the past projects. Instead of using class based components, I will use hooks.
 
 Project 5: Full website.
+In this project I will create a full website for the Math magicians app, consisting of several pages and using the components I have already created. By adding a Home page, Calculator page and Quotes page.
 
-Project 6: Tests (pair programming).
 
 
 </div>
- <img src="/images/Math-Magician2.gif" alt="logo" width="650"  height="450" />
+ <img src="/images/Math-Magician2.gif" alt="Math Magician Demo" width="650"  height="450" />
 <div>
 
 <div>
