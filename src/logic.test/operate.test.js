@@ -1,12 +1,12 @@
 import operate from '../logic/operate';
- 
+
 const obj = {
   test1: 3,
   test2: 4,
   test3: 2,
   test4: 7,
 };
- 
+
 describe('test calculation', () => {
   test('operate func return 7', () => {
     expect(Number(operate(obj.test1, obj.test2, '+'))).toBe(7);
