@@ -1,11 +1,9 @@
 import operate from './operate';
 
-
 function isNumber(item) {
   if (!item || !item.match) return false;
   return !!item.match(/[0-9]+/);
 }
-
 
 export default function calculate(obj, buttonName) {
   if (buttonName === 'AC') {
@@ -15,7 +13,6 @@ export default function calculate(obj, buttonName) {
       operation: null,
     };
   }
-
 
   if (isNumber(buttonName)) {
     if (buttonName === '0' && obj.next === '0') {
@@ -39,7 +36,6 @@ export default function calculate(obj, buttonName) {
     };
   }
 
-
   if (buttonName === '.') {
     if (obj.next) {
       if (obj.next.includes('.')) {
@@ -59,7 +55,6 @@ export default function calculate(obj, buttonName) {
     return { ...obj, next: '0.' };
   }
 
-
   if (buttonName === '=') {
     if (obj.next && obj.operation) {
       return {
@@ -71,7 +66,6 @@ export default function calculate(obj, buttonName) {
     return {};
   }
 
-
   if (buttonName === '+/-') {
     if (obj.next) {
       return { ...obj, next: (-1 * parseFloat(obj.next)).toString() };
@@ -82,22 +76,18 @@ export default function calculate(obj, buttonName) {
     return {};
   }
 
-
   if (!obj.next && obj.total && !obj.operation) {
     return { ...obj, operation: buttonName };
   }
-
 
   if (obj.operation) {
     if (obj.total && !obj.next) {
       return { ...obj, operation: buttonName };
     }
 
-
     if (!obj.total) {
       return { total: 0, operation: buttonName };
     }
-
 
     return {
       total: operate(obj.total, obj.next, obj.operation),
@@ -106,11 +96,9 @@ export default function calculate(obj, buttonName) {
     };
   }
 
-
   if (!obj.next) {
     return { operation: buttonName };
   }
-
 
   return {
     total: obj.next,

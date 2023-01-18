@@ -2,14 +2,14 @@ import React from 'react';
 import { render, cleanup, fireEvent } from '@testing-library/react';
 import renderer from 'react-test-renderer';
 import Calculator from '../components/Calculator';
- 
+
 afterEach(cleanup);
- 
+
 describe('Calculator', () => {
   test('should render without error', () => {
     render(<Calculator />);
   });
- 
+
   test('should update state when button is clicked', () => {
     const { getByText } = render(<Calculator />);
     const button = getByText('7');
@@ -17,7 +17,7 @@ describe('Calculator', () => {
     const answer = '7';
     expect(answer).toBe('7');
   });
- 
+
   test('should correctly perform calculations when buttons are clicked', () => {
     const { getByText } = render(<Calculator />);
     const button7 = getByText('7');
@@ -32,10 +32,8 @@ describe('Calculator', () => {
     expect(`${answer}`).toBe('21');
   });
 
-
   test('matches snapshot for new button', () => {
     const tree = renderer.create(<Calculator />).toJSON();
     expect(tree).toMatchSnapshot();
   });
 });
- 
