@@ -147,8 +147,23 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
+```yarn
+```
 ```sh
   npm install
+```
+
+```yarn
+```
+```sh
+   npm install --save-dev @testing-library/react
+```
+
+
+```yarn
+```
+```sh
+   npm install --save-dev react-test-renderer
 ```
 
 ### Usage
@@ -163,12 +178,16 @@ To run the project in a development server, execute the following command:
 
 To run the tests in a development server, execute the following command:
 
+```yarn
+```
 ```sh
   npm test
 ```
 
 To to build for the production, execute the following command:
 
+```yarn
+```
 ```sh
   npm run build
 ```

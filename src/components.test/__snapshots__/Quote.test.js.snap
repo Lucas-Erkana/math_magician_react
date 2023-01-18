@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render welcome component without error matches snapshot for new Header 1`] = `
+<div
+  className="quote"
+>
+  <ul>
+    <li>
+      Mathematics is the language in which God has written the universe. -
+      <span>
+        <big>
+          <b>
+            Galileo Galilei
+          </b>
+        </big>
+      </span>
+    </li>
+    <li>
+      Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding. -
+      <span>
+        <big>
+          <b>
+            William Paul Thurston
+          </b>
+        </big>
+      </span>
+    </li>
+  </ul>
+</div>
+`;
