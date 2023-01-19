@@ -2,6 +2,8 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-weight: 20px;
+  font-size: 20px;
 }
 
 .Application nav {
@@ -13,8 +15,57 @@
 }
 
 .header {
-  font-size: 2rem;
+  font-size: 2.8rem;
+  text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #f00, 0 0 10px #ff8d00, 0 0 98px #f00;
+  color: #fff6a9;
+  font-family: "Sacramento", cursive;
+  text-align: center;
+  animation: blink 12s infinite;
+  -webkit-animation: blink 12s infinite;
 }
+
+@-webkit-keyframes blink {
+  20%,
+  24%,
+  55% {
+    color: #111;
+    text-shadow: none;
+  }
+
+  0%,
+  19%,
+  21%,
+  23%,
+  25%,
+  54%,
+  56%,
+  100% {
+    text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #f00, 0 0 10px #ff8d00, 0 0 98px #f00;
+    color: #fff6a9;
+  }
+}
+
+@keyframes blink {
+  20%,
+  24%,
+  55% {
+    color: #111;
+    text-shadow: none;
+  }
+
+  0%,
+  19%,
+  21%,
+  23%,
+  25%,
+  54%,
+  56%,
+  100% {
+    text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #f00, 0 0 10px #ff8d00, 0 0 98px #f00;
+    color: #fff6a9;
+  }
+}
+
 
 .links {
   display: flex;
@@ -56,8 +107,7 @@
 }
 
 li:hover {
-  background-color: aqua;
+  background-color: #ffa800;
   color: black;
-  border: 2px solid aquamarine;
-  font-size: 20px;
+  font-size: 30px;
 }

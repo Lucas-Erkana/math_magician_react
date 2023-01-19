@@ -43,6 +43,9 @@ const Calculator = () => {
           <Btn click={clickReceived} class={styles.zero} text="0" />
           <Btn click={clickReceived} text="." />
           <Btn click={clickReceived} class={styles.maths} text="=" />
+          <Btn click={clickReceived} class={styles.maths} text="²" />
+          <Btn click={clickReceived} class={styles.maths} text="&#179;" />
+          <Btn click={clickReceived} class={styles.maths} text="&#8730;" />
         </div>
       </div>
     </div>
